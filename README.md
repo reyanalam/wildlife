@@ -62,7 +62,7 @@ Follow these steps to train the GAN:
 
 2. Run the training script:
    ```bash
-   python main.py --epochs <num_epochs> --batch_size <batch_size> --dataset_path <path_to_dataset>
+   python main.py 
    ```
 
    Replace `<num_epochs>` with the desired number of epochs, `<batch_size>` with the batch size, and `<path_to_dataset>` with the path to your dataset.
