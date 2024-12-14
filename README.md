@@ -74,4 +74,13 @@ Follow these steps to train the GAN:
 4. Save the trained models:
    - The generator's generated image will be saved in the `generated_images/` directory after training.
 
+5. Run the `generator.py` script:
+   ```bash
+   python generator.py 
+   ```
+
+   Replace `<output_directory>` with the path where the generated images should be saved and `<number_of_images>` with the desired number of images to generate.
+
+6. The generated images will be saved in the specified output directory.
+
 
