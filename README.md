@@ -1,5 +1,4 @@
 # Wildlife Image Generation using GANs
-![Image created by Generator after the tarining](WhatsApp Image 2024-12-14 at 10.01.37 (1)")
 
 This repository contains a Generative Adversarial Network (GAN) architecture designed to create realistic synthetic wildlife images. The model is trained on a dataset consisting of 25 different classes of wildlife, and the generator is capable of producing new, unique images inspired by these classes.
 
