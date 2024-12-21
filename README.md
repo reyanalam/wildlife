@@ -14,13 +14,13 @@ Through iterative training, the generator improves its ability to create realist
 
 ## Features
 
-- **25 Wildlife Classes**: The model is trained on a diverse dataset representing 25 different wildlife classes, ensuring a variety of generated images.
+- **50 Wildlife Classes**: The model is trained on a diverse dataset representing 50 different wildlife classes, ensuring a variety of generated images.
 - **Custom Generator**: Designed to synthesize high-quality images by learning from the patterns in the dataset.
 - **Scalable Architecture**: Easily adaptable to include more classes or different types of data.
 
 ## Dataset
 
-The dataset includes images from 25 wildlife categories such as lions, tigers, elephants, birds, and others. These images are preprocessed and used for training the GAN model.
+The dataset includes images from 50 wildlife categories such as lions, tigers, elephants, birds, and others. These images are preprocessed and used for training the GAN model.
 
 ## GAN Architecture
 
