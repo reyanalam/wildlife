@@ -66,7 +66,6 @@ Follow these steps to train the GAN:
    python main.py 
    ```
 
-   Replace `<num_epochs>` with the desired number of epochs, `<batch_size>` with the batch size, and `<path_to_dataset>` with the path to your dataset.
 
 3. Monitor training progress:
    - Check the loss values for the generator and discriminator.
@@ -74,13 +73,6 @@ Follow these steps to train the GAN:
 
 4. Save the trained models:
    - The generator's generated image will be saved in the `generated_images/` directory after training.
-
-5. Run the `generator.py` script:
-   ```bash
-   python generator.py 
-   ```
-
-   Replace `<output_directory>` with the path where the generated images should be saved and `<number_of_images>` with the desired number of images to generate.
 
 6. The generated images will be saved in the specified output directory.
 
